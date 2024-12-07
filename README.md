@@ -1,16 +1,8 @@
-# wast
 
-A new Flutter project.
+# Scroll with Button
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It features a single scroll view with two buttons. Clicking a button scrolls the view in the corresponding direction. When there is no more content to scroll, the button becomes disabled.
+<img style="width: 100%; height: auto;" src="https://karthikayansde.github.io/assets-site/assets/Screenshot%202024-12-07%20203558.png" alt="Image Description">
+## Technologies
+- Flutter
+- Dart 
